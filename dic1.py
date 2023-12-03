@@ -1,4 +1,4 @@
-s2="this is for the code in vs code"
+s2="this is for the code in vs code in code"
 words=s2.split()
 d1={}
 for word  in words:
